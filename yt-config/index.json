@@ -1,0 +1,8 @@
+{
+  "apiKey": "AIXX",
+  "apiDomain": "https://www.googleapis.com/youtube/v3/",
+  "apiSubdomainPlaylistItems": "playlistItems",
+  "channelIdArtists": "XX",
+  "playlistId": "XX",
+  "maxResults": 50
+}

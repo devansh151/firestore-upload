@@ -1,0 +1,132 @@
+{
+  "artists": [
+    {
+      "name": "Devansh Khanwalkar",
+      "kind": "youtube#playlistItem",
+      "etag": "XyVPvFJyl1kQd3wRhss53QihdOg",
+      "id": "UExKbEdaS2ZNQ0FDZFFuaUZlcDNhNHlGNE9PeTJVRkl6bi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-06-24T06:27:13Z",
+        "channelId": "UC89Uf1N9Tbes3NxnOhsp-2A",
+        "title": "Kash aisa koi manzar | Kash | Devansh Khanwalkar",
+        "description": "Artist: Devansh Khanwalkar\nOriginal Artist: Hariharan\nMusic Composer: Hariharan\nAlbum: Kaash\nRelease Year: 2000",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xn5cHVRWgus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xn5cHVRWgus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xn5cHVRWgus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "vaatchaalArtists",
+        "playlistId": "PLJlGZKfMCACdQniFep3a4yF4OOy2UFIzn",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xn5cHVRWgus"
+        }
+      }
+    },
+    {
+      "name": "Devansh Khanwalkar",
+      "kind": "youtube#playlistItem",
+      "etag": "a-wiQ3bQhdukKLKkDc58D-XDwSw",
+      "id": "UExKbEdaS2ZNQ0FDZFFuaUZlcDNhNHlGNE9PeTJVRkl6bi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-06-04T17:44:38Z",
+        "channelId": "UC89Uf1N9Tbes3NxnOhsp-2A",
+        "title": "Gata Rahe Mera Dil | Guide | Devansh/Mayura",
+        "description": "Artist: Devansh Khanwalkar, Mayura Bakshi\nOriginal Artist: Kishore Kumar, Lata Mangeshkar\nMusic Composer: S.D Burman\nMovie: Guide\nRelease Year: 1965",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "vaatchaalArtists",
+        "playlistId": "PLJlGZKfMCACdQniFep3a4yF4OOy2UFIzn",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YCFC9s4WPHc"
+        }
+      }
+    },
+    {
+      "name": "Mayura Bakshi",
+      "kind": "youtube#playlistItem",
+      "etag": "a-wiQ3bQhdukKLKkDc58D-XDwSw",
+      "id": "UExKbEdaS2ZNQ0FDZFFuaUZlcDNhNHlGNE9PeTJVRkl6bi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-06-04T17:44:38Z",
+        "channelId": "UC89Uf1N9Tbes3NxnOhsp-2A",
+        "title": "Gata Rahe Mera Dil | Guide | Devansh/Mayura",
+        "description": "Artist: Devansh Khanwalkar, Mayura Bakshi\nOriginal Artist: Kishore Kumar, Lata Mangeshkar\nMusic Composer: S.D Burman\nMovie: Guide\nRelease Year: 1965",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YCFC9s4WPHc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "vaatchaalArtists",
+        "playlistId": "PLJlGZKfMCACdQniFep3a4yF4OOy2UFIzn",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YCFC9s4WPHc"
+        }
+      }
+    }
+  ]
+}
